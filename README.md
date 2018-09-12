@@ -1,2 +1,2 @@
-# : LSD effects on global brain connectivity
+# LSD effects on global brain connectivity
 
