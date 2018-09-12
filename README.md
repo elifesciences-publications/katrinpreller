@@ -15,9 +15,15 @@ Ordering:
 dtseries are orderd for 1) subject and 2) condition
 
 subject1:
+
 1 - Placebo_T1
+
 2 - LSD_T1
+
 3 - Ketanserin+LSD_T1
+
 4 - Placebo_T2
+
 5 - LSD_T2
+
 6 - Ketanserin+LSD_T2
